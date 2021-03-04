@@ -1,0 +1,2 @@
+formula
+=IF(A3-A2=1,"","Missing")
